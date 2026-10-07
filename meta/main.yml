@@ -13,12 +13,12 @@ galaxy_info:
         - bullseye
     - name: Ubuntu
       versions:
+        - resolute
         - noble
-        - jammy
     - name: Fedora
       versions:
-        - 42
-        - 41
+        - "44"
+        - "43"
   galaxy_tags:
     - lodestar
     - blockchain
