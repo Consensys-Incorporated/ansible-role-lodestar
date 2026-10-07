@@ -14,7 +14,6 @@ Ansible role that will install, configure and runs [Lodestar](https://chainsafe.
 ### Supported Platforms
 ```
 * MacOS
-* Debian
 * Ubuntu
 * Redhat(CentOS/Fedora)
 * Amazon

@@ -7,10 +7,6 @@ galaxy_info:
   license: license (Apache)
   min_ansible_version: 2.18
   platforms:
-    - name: Debian
-      versions:
-        - bookworm
-        - bullseye
     - name: Ubuntu
       versions:
         - resolute
